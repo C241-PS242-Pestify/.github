@@ -1,6 +1,6 @@
 <h1 align="center">🍃  PESTIFY  🍃</h1>
 
-<strong>Pestify</strong> is an application designed to solve problems for aquaponic plant farmers. It provides a pest detection system along with the causes and solutions to overcome them. 
+<strong>Pestify</strong> is an application designed to solve problems for aquaponic plant farmers. It provides a pest classification system along with the causes and solutions to overcome them. 
 
 <h2>TEAM ID : C241-PS242</h2>
 <h4>TEAM MEMBER :</h4>
